@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 **I'm Alex. 👩‍💻**
 
-I'm a Data Scientist from Chicago, USA. I work for [Underwriters Laboratories](ul.com) on the Artificial Intelligence Lab team.
+I'm a Data Scientist from Chicago, USA. I work for [Underwriters Laboratories](ul.com) on the Artificial Intelligence Lab team. I use **Python** almost daily, particularly machine learning with [scikit-learn](https://scikit-learn.org/). **R** was my first love, and is still my main squeeze for data visualization.
+
+When I'm not a data scientist, I'm about carbon-based knowledge retrieval (aka a trivia nerd). I'm the volunteer president of [ACF](https://acf-quizbowl.com/about/), an organization that writes and organizes college quizobwl touraments, and a [three-time *Jeopardy!* champion](http://www.j-archive.com/showplayer.php?player_id=13013).
 
 **📬 Contact**
 * [LinkedIn](https://www.linkedin.com/in/alexandra-damisch-a641608a/)
