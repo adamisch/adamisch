@@ -25,7 +25,7 @@ I'm a Data Scientist from Chicago, USA. I work for [Underwriters Laboratories](u
 
 **Repositories Coming Soon**
 * Jeopardy!
-  * A notebook crunching the numbers on the *Jeopardy!* "incumbent advantage, [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201538200927383552)
+  * A notebook crunching the numbers on the *Jeopardy!* "incumbent advantage," [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201538200927383552)
   * Scripts about gender "streaks" in *Jeopardy!* contestants, [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201212089265770499) (although the unofficial record was [broken](https://twitter.com/lessfamous2019/status/1206784084187471873) soon after—and I helped!)
  * Web Scraping
     * Scripts for scraping calendar information off of various churches' websites in unusual ways
