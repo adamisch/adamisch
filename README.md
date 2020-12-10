@@ -23,7 +23,7 @@ When I'm not a data scientist, I'm interested in carbon-based knowledge retrieva
 * [Email](mailto:alexandra.damisch@gmail.com)
 
 **Repositories**
-* [grad](github.com/adamisch/grad): Previous and code for a couple of papers I worked on for my MS in Predictive Analytics
+* [grad](http://github.com/adamisch/grad): Previous and code for a couple of papers I worked on for my MS in Predictive Analytics
 
 **Repositories Coming Soon**
 * Jeopardy!
