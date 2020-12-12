@@ -23,11 +23,10 @@ When I'm not a data scientist, I'm interested in carbon-based knowledge retrieva
 * [Email](mailto:alexandra.damisch@gmail.com)
 
 **Repositories**
-* [grad](http://github.com/adamisch/grad): Previous and code for a couple of papers I worked on for my MS in Predictive Analytics
+* [grad](http://github.com/adamisch/grad): Previews and code for a couple of papers I worked on for my MS in Predictive Analytics
+* [orthodoxcalendars](http://github.com/adamisch/orthodoxcalendars): Code to scrape data and/or search XML soup to generate calendars of religious readings (*work in progress*)
 
 **Repositories Coming Soon**
 * Jeopardy!
   * A notebook crunching the numbers on the *Jeopardy!* "incumbent advantage," [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201538200927383552)
   * Scripts about gender "streaks" in *Jeopardy!* contestants, [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201212089265770499) (although the unofficial record was [broken](https://twitter.com/lessfamous2019/status/1206784084187471873) soon after—and I helped!)
- * Web Scraping
-    * Scripts for scraping calendar information off of various churches' websites in unusual ways
