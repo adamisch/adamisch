@@ -30,3 +30,5 @@ When I'm not a data scientist, I'm interested in carbon-based knowledge retrieva
 * Jeopardy!
   * A notebook crunching the numbers on the *Jeopardy!* "incumbent advantage," [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201538200927383552)
   * Scripts about gender "streaks" in *Jeopardy!* contestants, [as seen on Twitter](https://twitter.com/lessfamous2019/status/1201212089265770499) (although the unofficial record was [broken](https://twitter.com/lessfamous2019/status/1206784084187471873) soon after—and I helped!)
+* Quizbowl
+  * A notebook that uses part-of-speech tagging on the [quizbowl pronunciation dictionary](https://minkowski.space/quizbowl/pronouncing-dictionary/about.html) and a corpus of documents to identify words that are commonly used, but easily mispronounced 
