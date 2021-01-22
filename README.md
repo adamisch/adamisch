@@ -22,9 +22,12 @@ When I'm not a data scientist, I'm interested in carbon-based knowledge retrieva
 * [LinkedIn](https://www.linkedin.com/in/alexandra-damisch-a641608a/)
 * [Email](mailto:alexandra.damisch@gmail.com)
 
-**Repositories**
+**My Repositories**
 * [grad](http://github.com/adamisch/grad): Previews and code for a couple of papers I worked on for my MS in Predictive Analytics
 * [orthodoxcalendars](http://github.com/adamisch/orthodoxcalendars): Code to scrape data and/or search XML soup to generate calendars of religious readings (*work in progress*)
+
+**Other Repositories**
+* [SURE2015](https://github.com/aloy/sure2015): R Shiny apps I created as a Research Assistant at Lawrence University.
 
 **Repositories Coming Soon**
 * Jeopardy!
