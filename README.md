@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 **I'm Alex. 👩‍💻**
 
-I'm currently a Data Science facilitator at the [Flatiron School](https://flatironschool.com/) a tech boot camp. I help students learn to code in Python from square 1, and over the course of several months, lecture on and share my experience in basic statistics, regression, machine learning, neural networks, and retrieval augmented generation.
+I'm currently a Data Science facilitator at the [Flatiron School](https://flatironschool.com/), a tech boot camp. I help students learn to code in Python from square 1, and over the course of several months, I lecture on (and share my experience with) basic statistics, regression, machine learning, neural networks, and retrieval augmented generation.
 
 For 4 years I was a Senior Data Analyst at [Doximity](doximity.com). I primarily analyzed ad and newsfeed prioritization and how tweaking the ranking algorithms affected engagement rate outcomes. I also wrote failsafes that alerted the company when those tweaks caused issues. I used **Python** for the former and **SQL** in Snowflake for the latter.
 
