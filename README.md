@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 **I'm Alex. 👩‍💻**
 
-I'm a Senior Data Analyst at [Doximity](doximity.com). I analyze ad prioritization and how tweaking our algorithms affects our outcomes, and I write failsafes that alert us when those tweaks cause issues. I use **Python** for the former and **SQL** in Snowflake for the latter.
+I'm currently a Data Science facilitator at the [Flatiron School](https://flatironschool.com/) a tech boot camp. I help students learn to code in Python from square 1, and over the course of several months, lecture on and share my experience in basic statistics, regression, machine learning, neural networks, and retrieval augmented generation.
 
-I am ex-[Underwriters Laboratories](ul.com) as a Data Scientist on the Artificial Intelligence Lab team. I used Python daily, particularly machine learning and model building with [scikit-learn](https://scikit-learn.org/). **R** was my first love and my main squeeze for data visualization.
+For 4 years I was a Senior Data Analyst at [Doximity](doximity.com). I primarily analyzed ad and newsfeed prioritization and how tweaking the ranking algorithms affected engagement rate outcomes. I also wrote failsafes that alerted the company when those tweaks caused issues. I used **Python** for the former and **SQL** in Snowflake for the latter.
 
-When I'm not a data ~~scientist~~ ~~analyst~~ person, I'm interested in carbon-based knowledge retrieval (aka a trivia nerd). I'm a [three-time *Jeopardy!* champion](http://www.j-archive.com/showplayer.php?player_id=13013) and former board member of the [Academic Competition Federation (ACF)](https://acf-quizbowl.com/about/), a nonprofit organization that writes and organizes college quizobwl touraments. 
+I am also ex-[Underwriters Laboratories](ul.com) as a Data Scientist on the Artificial Intelligence Lab team. I used Python daily, particularly machine learning and model building with [scikit-learn](https://scikit-learn.org/). **R** was my first love and my main squeeze for data visualization.
+
+When I'm not a data ~~scientist~~ ~~analyst~~ ~~facilitator~~ person, I'm interested in carbon-based knowledge retrieval (aka a trivia nerd). I'm a [three-time *Jeopardy!* champion](http://www.j-archive.com/showplayer.php?player_id=13013) and emerita member of the [Academic Competition Federation (ACF)](https://acf-quizbowl.com/about/), a nonprofit organization that writes and organizes college quizobwl touraments. 
 
 I'm from Chicago. Μαθαίνω Ελλήνικα. (I'm learning Greek.)
 
