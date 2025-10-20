@@ -29,6 +29,7 @@ I'm from Chicago. Μαθαίνω Ελλήνικα. (I'm learning Greek.)
 * [Email](mailto:alexandra.damisch@gmail.com)
 
 **My Repositories**
+* [neural_network_demos](https://github.com/adamisch/neural_network_demos/tree/main): Jupyter notebooks adapted from case studies I presented to my Flatiron School students
 * [grad](http://github.com/adamisch/grad): Previews and code for a couple of papers I worked on for my MS in Predictive Analytics
 * [orthodoxcalendars](http://github.com/adamisch/orthodoxcalendars): Code to scrape data and/or search XML soup to generate calendars of religious readings (*work in progress*)
 
